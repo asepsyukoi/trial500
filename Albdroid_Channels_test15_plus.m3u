@@ -1,193 +1,193 @@
 #EXTM3U Albdroid TV
-#EXTINF:-1 tvg-ID="" tvg-name="SCTV Kabel" tvg-logo="" group-title="",SCTV Kabel
+#EXTINF:-1,SCTV Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/127.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI Kabel" tvg-logo="" group-title="",TVRI Kabel
+#EXTINF:-1,TVRI Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/12.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Kompas TV" tvg-logo="" group-title="",Kompas TV
+#EXTINF:-1,Kompas TV
 http://iptv.kabelvisions.com:8888/live/test15/trial01/123.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TVONE Kabel" tvg-logo="" group-title="",TVONE Kabel
+#EXTINF:-1,TVONE Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/10.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TRAN TV Kabel" tvg-logo="" group-title="",TRAN TV Kabel
+#EXTINF:-1,TRAN TV Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/6.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="TRANS 7 Kabel" tvg-logo="" group-title="",TRANS 7 Kabel
+#EXTINF:-1,TRANS 7 Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/7.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="RCTI Kabel" tvg-logo="" group-title="",RCTI Kabel
+#EXTINF:-1,RCTI Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/1.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NET_HD" tvg-logo="" group-title="",NET_HD
+#EXTINF:-1,NET_HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/14.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MNCTV Kabel" tvg-logo="" group-title="",MNCTV Kabel
+#EXTINF:-1,MNCTV Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/3.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="MNC NEWS Kabel" tvg-logo="" group-title="",MNC NEWS Kabel
+#EXTINF:-1,MNC NEWS Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/11.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="METRO TV Kabel" tvg-logo="" group-title="",METRO TV Kabel
+#EXTINF:-1,METRO TV Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/8.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="INEWS TV Kabel" tvg-logo="" group-title="",INEWS TV Kabel
+#EXTINF:-1,INEWS TV Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/4.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="INDOSIAR Kabel" tvg-logo="" group-title="",INDOSIAR Kabel
+#EXTINF:-1,INDOSIAR Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/5.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="GTV Kabel" tvg-logo="" group-title="",GTV Kabel
+#EXTINF:-1,GTV Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/2.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ANTV Kabel" tvg-logo="" group-title="",ANTV Kabel
+#EXTINF:-1,ANTV Kabel
 http://iptv.kabelvisions.com:8888/live/test15/trial01/9.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="CNN Indonesia" tvg-logo="" group-title="",CNN Indonesia
+#EXTINF:-1,CNN Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/16.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Da VINCI KIDS Indonesia" tvg-logo="" group-title="",Da VINCI KIDS Indonesia
+#EXTINF:-1,Da VINCI KIDS Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/136.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Bisnet KIDS Indonesia" tvg-logo="" group-title="",Bisnet KIDS Indonesia
+#EXTINF:-1,Bisnet KIDS Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/131.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Disney Junior" tvg-logo="" group-title="",Disney Junior
+#EXTINF:-1,Disney Junior
 http://iptv.kabelvisions.com:8888/live/test15/trial01/13.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Nikolodeon" tvg-logo="" group-title="",Nikolodeon
+#EXTINF:-1,Nikolodeon
 http://iptv.kabelvisions.com:8888/live/test15/trial01/124.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AniPlus HD" tvg-logo="" group-title="",AniPlus HD
+#EXTINF:-1,AniPlus HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/96.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="K-Drama" tvg-logo="" group-title="",K-Drama
+#EXTINF:-1,K-Drama
 http://iptv.kabelvisions.com:8888/live/test15/trial01/122.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Clestial Movies" tvg-logo="" group-title="",Clestial Movies
+#EXTINF:-1,Clestial Movies
 http://iptv.kabelvisions.com:8888/live/test15/trial01/129.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="AXN Indonesia" tvg-logo="" group-title="",AXN Indonesia
+#EXTINF:-1,AXN Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/130.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Sony ONE Indonesia" tvg-logo="" group-title="",Sony ONE Indonesia
+#EXTINF:-1,Sony ONE Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/101.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SBS Indonesia HD" tvg-logo="" group-title="",SBS Indonesia HD
+#EXTINF:-1,SBS Indonesia HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/100.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="S ONE HD" tvg-logo="" group-title="",S ONE HD
+#EXTINF:-1,S ONE HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/93.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Life Hd" tvg-logo="" group-title="",Fox Life Hd
+#EXTINF:-1,Fox Life Hd
 http://iptv.kabelvisions.com:8888/live/test15/trial01/92.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES PREMIER Indo" tvg-logo="" group-title="",FOX MOVIES PREMIER Indo
+#EXTINF:-1,FOX MOVIES PREMIER Indo
 http://iptv.kabelvisions.com:8888/live/test15/trial01/132.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Kix HD" tvg-logo="" group-title="",Kix HD
+#EXTINF:-1,Kix HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/94.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="THRILL" tvg-logo="" group-title="",THRILL
+#EXTINF:-1,THRILL
 http://iptv.kabelvisions.com:8888/live/test15/trial01/95.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX HD Indonesia" tvg-logo="" group-title="",FOX HD Indonesia
+#EXTINF:-1,FOX HD Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/98.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Family Movie" tvg-logo="" group-title="",Fox Family Movie
+#EXTINF:-1,Fox Family Movie
 http://iptv.kabelvisions.com:8888/live/test15/trial01/99.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION MOVIES" tvg-logo="" group-title="",FOX ACTION MOVIES
+#EXTINF:-1,FOX ACTION MOVIES
 http://iptv.kabelvisions.com:8888/live/test15/trial01/97.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="(ID) ANTARA TV" tvg-logo="" group-title="",(ID) ANTARA TV
+#EXTINF:-1,(ID) ANTARA TV
 http://iptv.kabelvisions.com:8888/live/test15/trial01/28.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SUNNA tv" tvg-logo="" group-title="",SUNNA tv
+#EXTINF:-1,SUNNA tv
 http://iptv.kabelvisions.com:8888/live/test15/trial01/30.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Mekka tv" tvg-logo="" group-title="",Mekka tv
+#EXTINF:-1,Mekka tv
 http://iptv.kabelvisions.com:8888/live/test15/trial01/29.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Saluran music indonesia" tvg-logo="" group-title="",Saluran music indonesia
+#EXTINF:-1,Saluran music indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/26.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Saluran Film Indonesia" tvg-logo="" group-title="",Saluran Film Indonesia
+#EXTINF:-1,Saluran Film Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/27.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="(ID) MALEO CHANNEL" tvg-logo="" group-title="",(ID) MALEO CHANNEL
+#EXTINF:-1,(ID) MALEO CHANNEL
 http://iptv.kabelvisions.com:8888/live/test15/trial01/24.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="(ID) KLIK MUSIK" tvg-logo="" group-title="",(ID) KLIK MUSIK
+#EXTINF:-1,(ID) KLIK MUSIK
 http://iptv.kabelvisions.com:8888/live/test15/trial01/25.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Red_Diamond" tvg-logo="" group-title="",Red_Diamond
+#EXTINF:-1,Red_Diamond
 http://iptv.kabelvisions.com:8888/live/test15/trial01/22.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Gold_Diamond" tvg-logo="" group-title="",Gold_Diamond
+#EXTINF:-1,Gold_Diamond
 http://iptv.kabelvisions.com:8888/live/test15/trial01/19.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Diamond_Earth" tvg-logo="" group-title="",Diamond_Earth
+#EXTINF:-1,Diamond_Earth
 http://iptv.kabelvisions.com:8888/live/test15/trial01/23.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Avava_Diamond" tvg-logo="" group-title="",Avava_Diamond
+#EXTINF:-1,Avava_Diamond
 http://iptv.kabelvisions.com:8888/live/test15/trial01/18.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Black_Diamond" tvg-logo="" group-title="",Black_Diamond
+#EXTINF:-1,Black_Diamond
 http://iptv.kabelvisions.com:8888/live/test15/trial01/20.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Cartoon Network" tvg-logo="" group-title="",Cartoon Network
+#EXTINF:-1,Cartoon Network
 http://iptv.kabelvisions.com:8888/live/test15/trial01/121.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="RTM 2 Malaysia" tvg-logo="" group-title="",RTM 2 Malaysia
+#EXTINF:-1,RTM 2 Malaysia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/54.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="RTM 1 Malaysia" tvg-logo="" group-title="",RTM 1 Malaysia
+#EXTINF:-1,RTM 1 Malaysia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/53.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES PREMIER" tvg-logo="" group-title="",FOX MOVIES PREMIER
+#EXTINF:-1,FOX MOVIES PREMIER
 http://iptv.kabelvisions.com:8888/live/test15/trial01/62.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="" group-title="",FOX HD
+#EXTINF:-1,FOX HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/63.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION MOVIES 2" tvg-logo="" group-title="",FOX ACTION MOVIES 2
+#EXTINF:-1,FOX ACTION MOVIES 2
 http://iptv.kabelvisions.com:8888/live/test15/trial01/61.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD HD" tvg-logo="" group-title="",DISCOVERY WORLD HD
+#EXTINF:-1,DISCOVERY WORLD HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/65.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Animal Planet HD" tvg-logo="" group-title="",Animal Planet HD
+#EXTINF:-1,Animal Planet HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/32.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="" group-title="",NATIONAL GEOGRAPHIC
+#EXTINF:-1,NATIONAL GEOGRAPHIC
 http://iptv.kabelvisions.com:8888/live/test15/trial01/66.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="NAT GEO WILD" tvg-logo="" group-title="",NAT GEO WILD
+#EXTINF:-1,NAT GEO WILD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/64.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="EuroSport HD" tvg-logo="" group-title="",EuroSport HD
+#EXTINF:-1,EuroSport HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/125.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO SPORT" tvg-logo="" group-title="",ASTRO SPORT
+#EXTINF:-1,ASTRO SPORT
 http://iptv.kabelvisions.com:8888/live/test15/trial01/55.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ASTRO ARENA" tvg-logo="" group-title="",ASTRO ARENA
+#EXTINF:-1,ASTRO ARENA
 http://iptv.kabelvisions.com:8888/live/test15/trial01/56.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT" tvg-logo="" group-title="",FOX SPORT
+#EXTINF:-1,FOX SPORT
 http://iptv.kabelvisions.com:8888/live/test15/trial01/57.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2" tvg-logo="" group-title="",FOX SPORT 2
+#EXTINF:-1,FOX SPORT 2
 http://iptv.kabelvisions.com:8888/live/test15/trial01/58.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 3 HD" tvg-logo="" group-title="",FOX SPORT 3 HD
+#EXTINF:-1,FOX SPORT 3 HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/59.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 1 Indonesia" tvg-logo="" group-title="",FOX SPORT 1 Indonesia
+#EXTINF:-1,FOX SPORT 1 Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/135.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2 Indonesia" tvg-logo="" group-title="",FOX SPORT 2 Indonesia
+#EXTINF:-1,FOX SPORT 2 Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/133.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 3 Indonesia" tvg-logo="" group-title="",FOX SPORT 3 Indonesia
+#EXTINF:-1,FOX SPORT 3 Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/134.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN 1 SD" tvg-logo="" group-title="",SONY TEN 1 SD
+#EXTINF:-1,SONY TEN 1 SD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/40.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN 2 SD" tvg-logo="" group-title="",SONY TEN 2 SD
+#EXTINF:-1,SONY TEN 2 SD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/42.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN 3 SD" tvg-logo="" group-title="",SONY TEN 3 SD
+#EXTINF:-1,SONY TEN 3 SD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/44.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN 1 HD" tvg-logo="" group-title="",SONY TEN 1 HD
+#EXTINF:-1,SONY TEN 1 HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/41.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN 2 HD" tvg-logo="" group-title="",SONY TEN 2 HD
+#EXTINF:-1,SONY TEN 2 HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/43.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SONY TEN 3 HD" tvg-logo="" group-title="",SONY TEN 3 HD
+#EXTINF:-1,SONY TEN 3 HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/45.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SONY SIX SD" tvg-logo="" group-title="",SONY SIX SD
+#EXTINF:-1,SONY SIX SD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/48.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SONY SIX HD" tvg-logo="" group-title="",SONY SIX HD
+#EXTINF:-1,SONY SIX HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/49.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SONY ESPN SD" tvg-logo="" group-title="",SONY ESPN SD
+#EXTINF:-1,SONY ESPN SD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/46.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="SONY ESPN HD" tvg-logo="" group-title="",SONY ESPN HD
+#EXTINF:-1,SONY ESPN HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/47.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Treue Sport HD" tvg-logo="" group-title="",Treue Sport HD
+#EXTINF:-1,Treue Sport HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/39.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Treue Sport" tvg-logo="" group-title="",Treue Sport
+#EXTINF:-1,Treue Sport
 http://iptv.kabelvisions.com:8888/live/test15/trial01/38.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport4 True" tvg-logo="" group-title="",Bein Sport4 True
+#EXTINF:-1,Bein Sport4 True
 http://iptv.kabelvisions.com:8888/live/test15/trial01/37.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport3 True" tvg-logo="" group-title="",Bein Sport3 True
+#EXTINF:-1,Bein Sport3 True
 http://iptv.kabelvisions.com:8888/live/test15/trial01/36.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport2 True" tvg-logo="" group-title="",Bein Sport2 True
+#EXTINF:-1,Bein Sport2 True
 http://iptv.kabelvisions.com:8888/live/test15/trial01/35.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport1 True" tvg-logo="" group-title="",Bein Sport1 True
+#EXTINF:-1,Bein Sport1 True
 http://iptv.kabelvisions.com:8888/live/test15/trial01/34.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Miami TV USA" tvg-logo="" group-title="",Miami TV USA
+#EXTINF:-1,Miami TV USA
 http://iptv.kabelvisions.com:8888/live/test15/trial01/69.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Babestation" tvg-logo="" group-title="",Babestation
+#EXTINF:-1,Babestation
 http://iptv.kabelvisions.com:8888/live/test15/trial01/67.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Team Skeet - VOD 21 - Sasha" tvg-logo="" group-title="",Team Skeet - VOD 21 - Sasha
+#EXTINF:-1,Team Skeet - VOD 21 - Sasha
 http://iptv.kabelvisions.com:8888/live/test15/trial01/75.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Team Skeet - VOD 19 - Neona" tvg-logo="" group-title="",Team Skeet - VOD 19 - Neona
+#EXTINF:-1,Team Skeet - VOD 19 - Neona
 http://iptv.kabelvisions.com:8888/live/test15/trial01/73.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Team Skeet - VOD 17 - Mirabella" tvg-logo="" group-title="",Team Skeet - VOD 17 - Mirabella
+#EXTINF:-1,Team Skeet - VOD 17 - Mirabella
 http://iptv.kabelvisions.com:8888/live/test15/trial01/71.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Other - Lust Cinema - Sex Fetish" tvg-logo="" group-title="",Other - Lust Cinema - Sex Fetish
+#EXTINF:-1,Other - Lust Cinema - Sex Fetish
 http://iptv.kabelvisions.com:8888/live/test15/trial01/81.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Other - Dane Jones - My Sweet Spot" tvg-logo="" group-title="",Other - Dane Jones - My Sweet Spot
+#EXTINF:-1,Other - Dane Jones - My Sweet Spot
 http://iptv.kabelvisions.com:8888/live/test15/trial01/80.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ZBioskop Indonesia" tvg-logo="" group-title="",ZBioskop Indonesia
+#EXTINF:-1,ZBioskop Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/119.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Nat GeoWild Indonesia2" tvg-logo="" group-title="",Nat GeoWild Indonesia2
+#EXTINF:-1,Nat GeoWild Indonesia2
 http://iptv.kabelvisions.com:8888/live/test15/trial01/104.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Animax HD" tvg-logo="" group-title="",Animax HD
+#EXTINF:-1,Animax HD
 http://iptv.kabelvisions.com:8888/live/test15/trial01/109.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="XXX: EROTIC 5" tvg-logo="" group-title="",XXX: EROTIC 5
+#EXTINF:-1,XXX: EROTIC 5
 http://iptv.kabelvisions.com:8888/live/test15/trial01/107.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="XXX: EROTIC 4" tvg-logo="" group-title="",XXX: EROTIC 4
+#EXTINF:-1,XXX: EROTIC 4
 http://iptv.kabelvisions.com:8888/live/test15/trial01/106.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="XXX: EROTIC 1" tvg-logo="" group-title="",XXX: EROTIC 1
+#EXTINF:-1,XXX: EROTIC 1
 http://iptv.kabelvisions.com:8888/live/test15/trial01/105.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Family Indonesia6" tvg-logo="" group-title="",FOX Family Indonesia6
+#EXTINF:-1,FOX Family Indonesia6
 http://iptv.kabelvisions.com:8888/live/test15/trial01/116.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="National Geografi HD Indonesia" tvg-logo="" group-title="",National Geografi HD Indonesia
+#EXTINF:-1,National Geografi HD Indonesia
 http://iptv.kabelvisions.com:8888/live/test15/trial01/114.m3u8
