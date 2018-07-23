@@ -1,0 +1,193 @@
+#EXTM3U Albdroid TV
+#EXTINF:-1,SCTV Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/127.ts
+#EXTINF:-1,TVRI Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/12.ts
+#EXTINF:-1,Kompas TV
+http://iptv.kabelvisions.com:8888/live/test15/trial01/123.ts
+#EXTINF:-1,TVONE Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/10.ts
+#EXTINF:-1,TRAN TV Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/6.ts
+#EXTINF:-1,TRANS 7 Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/7.ts
+#EXTINF:-1,RCTI Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/1.ts
+#EXTINF:-1,NET_HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/14.ts
+#EXTINF:-1,MNCTV Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/3.ts
+#EXTINF:-1,MNC NEWS Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/11.ts
+#EXTINF:-1,METRO TV Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/8.ts
+#EXTINF:-1,INEWS TV Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/4.ts
+#EXTINF:-1,INDOSIAR Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/5.ts
+#EXTINF:-1,GTV Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/2.ts
+#EXTINF:-1,ANTV Kabel
+http://iptv.kabelvisions.com:8888/live/test15/trial01/9.ts
+#EXTINF:-1,CNN Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/16.ts
+#EXTINF:-1,Da VINCI KIDS Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/136.ts
+#EXTINF:-1,Bisnet KIDS Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/131.ts
+#EXTINF:-1,Disney Junior
+http://iptv.kabelvisions.com:8888/live/test15/trial01/13.ts
+#EXTINF:-1,Nikolodeon
+http://iptv.kabelvisions.com:8888/live/test15/trial01/124.ts
+#EXTINF:-1,AniPlus HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/96.ts
+#EXTINF:-1,K-Drama
+http://iptv.kabelvisions.com:8888/live/test15/trial01/122.ts
+#EXTINF:-1,Clestial Movies
+http://iptv.kabelvisions.com:8888/live/test15/trial01/129.ts
+#EXTINF:-1,AXN Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/130.ts
+#EXTINF:-1,Sony ONE Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/101.ts
+#EXTINF:-1,SBS Indonesia HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/100.ts
+#EXTINF:-1,S ONE HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/93.ts
+#EXTINF:-1,Fox Life Hd
+http://iptv.kabelvisions.com:8888/live/test15/trial01/92.ts
+#EXTINF:-1,FOX MOVIES PREMIER Indo
+http://iptv.kabelvisions.com:8888/live/test15/trial01/132.ts
+#EXTINF:-1,Kix HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/94.ts
+#EXTINF:-1,THRILL
+http://iptv.kabelvisions.com:8888/live/test15/trial01/95.ts
+#EXTINF:-1,FOX HD Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/98.ts
+#EXTINF:-1,Fox Family Movie
+http://iptv.kabelvisions.com:8888/live/test15/trial01/99.ts
+#EXTINF:-1,FOX ACTION MOVIES
+http://iptv.kabelvisions.com:8888/live/test15/trial01/97.ts
+#EXTINF:-1,(ID) ANTARA TV
+http://iptv.kabelvisions.com:8888/live/test15/trial01/28.ts
+#EXTINF:-1,SUNNA tv
+http://iptv.kabelvisions.com:8888/live/test15/trial01/30.ts
+#EXTINF:-1,Mekka tv
+http://iptv.kabelvisions.com:8888/live/test15/trial01/29.ts
+#EXTINF:-1,Saluran music indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/26.ts
+#EXTINF:-1,Saluran Film Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/27.ts
+#EXTINF:-1,(ID) MALEO CHANNEL
+http://iptv.kabelvisions.com:8888/live/test15/trial01/24.ts
+#EXTINF:-1,(ID) KLIK MUSIK
+http://iptv.kabelvisions.com:8888/live/test15/trial01/25.ts
+#EXTINF:-1,Red_Diamond
+http://iptv.kabelvisions.com:8888/live/test15/trial01/22.ts
+#EXTINF:-1,Gold_Diamond
+http://iptv.kabelvisions.com:8888/live/test15/trial01/19.ts
+#EXTINF:-1,Diamond_Earth
+http://iptv.kabelvisions.com:8888/live/test15/trial01/23.ts
+#EXTINF:-1,Avava_Diamond
+http://iptv.kabelvisions.com:8888/live/test15/trial01/18.ts
+#EXTINF:-1,Black_Diamond
+http://iptv.kabelvisions.com:8888/live/test15/trial01/20.ts
+#EXTINF:-1,Cartoon Network
+http://iptv.kabelvisions.com:8888/live/test15/trial01/121.ts
+#EXTINF:-1,RTM 2 Malaysia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/54.ts
+#EXTINF:-1,RTM 1 Malaysia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/53.ts
+#EXTINF:-1,FOX MOVIES PREMIER
+http://iptv.kabelvisions.com:8888/live/test15/trial01/62.ts
+#EXTINF:-1,FOX HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/63.ts
+#EXTINF:-1,FOX ACTION MOVIES 2
+http://iptv.kabelvisions.com:8888/live/test15/trial01/61.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/65.ts
+#EXTINF:-1,Animal Planet HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/32.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://iptv.kabelvisions.com:8888/live/test15/trial01/66.ts
+#EXTINF:-1,NAT GEO WILD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/64.ts
+#EXTINF:-1,EuroSport HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/125.ts
+#EXTINF:-1,ASTRO SPORT
+http://iptv.kabelvisions.com:8888/live/test15/trial01/55.ts
+#EXTINF:-1,ASTRO ARENA
+http://iptv.kabelvisions.com:8888/live/test15/trial01/56.ts
+#EXTINF:-1,FOX SPORT
+http://iptv.kabelvisions.com:8888/live/test15/trial01/57.ts
+#EXTINF:-1,FOX SPORT 2
+http://iptv.kabelvisions.com:8888/live/test15/trial01/58.ts
+#EXTINF:-1,FOX SPORT 3 HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/59.ts
+#EXTINF:-1,FOX SPORT 1 Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/135.ts
+#EXTINF:-1,FOX SPORT 2 Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/133.ts
+#EXTINF:-1,FOX SPORT 3 Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/134.ts
+#EXTINF:-1,SONY TEN 1 SD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/40.ts
+#EXTINF:-1,SONY TEN 2 SD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/42.ts
+#EXTINF:-1,SONY TEN 3 SD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/44.ts
+#EXTINF:-1,SONY TEN 1 HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/41.ts
+#EXTINF:-1,SONY TEN 2 HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/43.ts
+#EXTINF:-1,SONY TEN 3 HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/45.ts
+#EXTINF:-1,SONY SIX SD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/48.ts
+#EXTINF:-1,SONY SIX HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/49.ts
+#EXTINF:-1,SONY ESPN SD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/46.ts
+#EXTINF:-1,SONY ESPN HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/47.ts
+#EXTINF:-1,Treue Sport HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/39.ts
+#EXTINF:-1,Treue Sport
+http://iptv.kabelvisions.com:8888/live/test15/trial01/38.ts
+#EXTINF:-1,Bein Sport4 True
+http://iptv.kabelvisions.com:8888/live/test15/trial01/37.ts
+#EXTINF:-1,Bein Sport3 True
+http://iptv.kabelvisions.com:8888/live/test15/trial01/36.ts
+#EXTINF:-1,Bein Sport2 True
+http://iptv.kabelvisions.com:8888/live/test15/trial01/35.ts
+#EXTINF:-1,Bein Sport1 True
+http://iptv.kabelvisions.com:8888/live/test15/trial01/34.ts
+#EXTINF:-1,Miami TV USA
+http://iptv.kabelvisions.com:8888/live/test15/trial01/69.ts
+#EXTINF:-1,Babestation
+http://iptv.kabelvisions.com:8888/live/test15/trial01/67.ts
+#EXTINF:-1,Team Skeet - VOD 21 - Sasha
+http://iptv.kabelvisions.com:8888/live/test15/trial01/75.ts
+#EXTINF:-1,Team Skeet - VOD 19 - Neona
+http://iptv.kabelvisions.com:8888/live/test15/trial01/73.ts
+#EXTINF:-1,Team Skeet - VOD 17 - Mirabella
+http://iptv.kabelvisions.com:8888/live/test15/trial01/71.ts
+#EXTINF:-1,Other - Lust Cinema - Sex Fetish
+http://iptv.kabelvisions.com:8888/live/test15/trial01/81.ts
+#EXTINF:-1,Other - Dane Jones - My Sweet Spot
+http://iptv.kabelvisions.com:8888/live/test15/trial01/80.ts
+#EXTINF:-1,ZBioskop Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/119.ts
+#EXTINF:-1,Nat GeoWild Indonesia2
+http://iptv.kabelvisions.com:8888/live/test15/trial01/104.ts
+#EXTINF:-1,Animax HD
+http://iptv.kabelvisions.com:8888/live/test15/trial01/109.ts
+#EXTINF:-1,XXX: EROTIC 5
+http://iptv.kabelvisions.com:8888/live/test15/trial01/107.ts
+#EXTINF:-1,XXX: EROTIC 4
+http://iptv.kabelvisions.com:8888/live/test15/trial01/106.ts
+#EXTINF:-1,XXX: EROTIC 1
+http://iptv.kabelvisions.com:8888/live/test15/trial01/105.ts
+#EXTINF:-1,FOX Family Indonesia6
+http://iptv.kabelvisions.com:8888/live/test15/trial01/116.ts
+#EXTINF:-1,National Geografi HD Indonesia
+http://iptv.kabelvisions.com:8888/live/test15/trial01/114.ts
